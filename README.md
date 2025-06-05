@@ -1,4 +1,4 @@
-Tech Stack Used
+Tech Stack Used:
 🔹 Programming Language – Python
 🔹 Libraries & Frameworks – TensorFlow, PyTorch, OpenCV, NumPy, Pandas, Matplotlib, Sci-kit Learn
 🔹 Deep Learning Models – Inception-V3, ResNet-50, Vision Transformer (ViT)
